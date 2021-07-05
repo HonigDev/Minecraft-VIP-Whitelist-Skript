@@ -1,0 +1,4 @@
+on connect:
+	player doesn't have permission "VIP"
+	number of players is larger than 20
+	kick the player due to "The last 5 slots are reserved for VIP players."
